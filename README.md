@@ -33,4 +33,4 @@
 
 ## Ссылка на опубликованный проект
 
-https://ТВОЙ_ЮЗЕР.github.io/kr1-html-css-shop/
+https://sho6ot.github.io/kr1-html-css-shop/
